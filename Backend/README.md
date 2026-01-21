@@ -19,14 +19,7 @@ npm run dev
 ### Pizzas
 
 ```sh
-GET /api/pizzas
-```
 
-### Pizza (única)
-
-```sh
-GET /api/pizzas/:id
-```
 
 ### Auth
 
